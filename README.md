@@ -48,6 +48,7 @@
 Ответ:
 ```json
 {
+    {
         "id": 2,
         "name": "Sasha",
         "email": "efg@gmail.com",
