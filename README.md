@@ -21,7 +21,7 @@ token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vdXNlcmFwaS9hcG
 }
 ```
 
->[!note] Замечание
+>Замечание
 >В следующих методах при отправках запросов используется полученный ранее jwt-token
 ### Выход пользователя
 
