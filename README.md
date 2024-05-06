@@ -49,20 +49,20 @@
 ```json
 {
     {
-        "id": 2,
-        "name": "Sasha",
-        "email": "efg@gmail.com",
-        "email_verified_at": null,
-        "created_at": "2024-05-05T21:36:49.000000Z",
-        "updated_at": "2024-05-05T21:36:49.000000Z"
+        "id": 2,
+        "name": "Sasha",
+        "email": "efg@gmail.com",
+        "email_verified_at": null,
+        "created_at": "2024-05-05T21:36:49.000000Z",
+        "updated_at": "2024-05-05T21:36:49.000000Z"
     },
     {
-        "id": 7,
-        "name": "Masha",
-        "email": "efghy@gmail.com",
-        "email_verified_at": null,
-        "created_at": "2024-05-05T22:20:48.000000Z",
-        "updated_at": "2024-05-05T22:20:48.000000Z"
+        "id": 7,
+        "name": "Masha",
+        "email": "efghy@gmail.com",
+        "email_verified_at": null,
+        "created_at": "2024-05-05T22:20:48.000000Z",
+        "updated_at": "2024-05-05T22:20:48.000000Z"
     }
 }
 ```
