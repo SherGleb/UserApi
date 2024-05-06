@@ -55,15 +55,15 @@
         "email_verified_at": null,
         "created_at": "2024-05-05T21:36:49.000000Z",
         "updated_at": "2024-05-05T21:36:49.000000Z"
-    },
-    {
+    },
+    {
         "id": 7,
         "name": "Masha",
         "email": "efghy@gmail.com",
         "email_verified_at": null,
         "created_at": "2024-05-05T22:20:48.000000Z",
         "updated_at": "2024-05-05T22:20:48.000000Z"
-    }
+    }
 }
 ```
 
@@ -74,13 +74,13 @@
 Ответ:
 ```json
 {
-        "id": 2,
-        "name": "Sasha",
-        "email": "efg@gmail.com",
-        "email_verified_at": null,
-        "created_at": "2024-05-05T21:36:49.000000Z",
-        "updated_at": "2024-05-05T21:36:49.000000Z"
-    }
+    "id": 2,
+    "name": "Sasha",
+    "email": "efg@gmail.com",
+    "email_verified_at": null,
+    "created_at": "2024-05-05T21:36:49.000000Z",
+    "updated_at": "2024-05-05T21:36:49.000000Z"
+}
 ```
 
 ### Создание нового пользователя
@@ -90,11 +90,11 @@
 Запрос:
 ```json
 {
-	"name": "Masha",
-    "email": "efghy@gmail.com",
-    "password": "12345678",
-    "updated_at": "",
-    "created_at": ""
+    "name": "Masha",
+    "email": "efghy@gmail.com",
+    "password": "12345678",
+    "updated_at": "",
+    "created_at": ""
 }
 ```
 
@@ -102,10 +102,10 @@
 ```json
 {
     "name": "Masha",
-    "email": "efghy@gmail.com",
-    "updated_at": "2024-05-05T22:20:48.000000Z",
-    "created_at": "2024-05-05T22:20:48.000000Z",
-    "id": 7
+    "email": "efghy@gmail.com",
+    "updated_at": "2024-05-05T22:20:48.000000Z",
+    "created_at": "2024-05-05T22:20:48.000000Z",
+    "id": 7
 }
 ```
 
@@ -116,19 +116,19 @@
 Запрос:
 ```json
 {
-	"name": "Pasha"
+    "name": "Pasha"
 }
 ```
 
 Ответ:
 ```json
 {
-    "id": 5,
-    "name": "Pasha",
-    "email": "efghy@gmail.com",
-    "email_verified_at": null,
-    "created_at": "2024-05-05T21:55:02.000000Z",
-    "updated_at": "2024-05-05T21:57:09.000000Z"
+    "id": 5,
+    "name": "Pasha",
+    "email": "efghy@gmail.com",
+    "email_verified_at": null,
+    "created_at": "2024-05-05T21:55:02.000000Z",
+    "updated_at": "2024-05-05T21:57:09.000000Z"
 }
 ```
 
